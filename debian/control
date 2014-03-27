@@ -1,0 +1,12 @@
+Source: ros-hydro-youbot-description
+Section: misc
+Priority: extra
+Maintainer: Walter Nowak <nowak@locomotec.com>
+Build-Depends: debhelper (>= 7.0.50~), ros-hydro-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-hydro-youbot-description
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: Robot descriptions in form of URDF files and meshes
