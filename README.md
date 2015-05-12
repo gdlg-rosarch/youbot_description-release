@@ -1,3 +1,24 @@
+## youbot_description (indigo) - 0.8.1-0
+
+The packages in the `youbot_description` repository were released into the `indigo` distro by running `/usr/bin/bloom-release youbot_description --track indigo --rosdistro indigo --new-track` on `Tue, 12 May 2015 11:25:35 -0000`
+
+The `youbot_description` package was released.
+
+Version of package(s) in repository `youbot_description`:
+- upstream repository: https://github.com/youbot/youbot_description
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.8.1-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.8`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.36`
+
+
 ## youbot_description (hydro) - 0.8.0-1
 
 User `walter@walter-4u` released the packages in the `youbot_description` repository into the `hydro` distro by running `/usr/bin/bloom-release youbot_description --track hydro --rosdistro hydro` on `Thu, 27 Mar 2014 17:05:29 -0000`
